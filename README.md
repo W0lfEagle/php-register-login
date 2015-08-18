@@ -1,3 +1,6 @@
+The starting point for this mini project comes from the link below.
+Changes are being made to fit the software to purpose, speed up the process and improve security.
+
 # Simple Registration/Login code in PHP
 
 Read more:[PHP registration form](http://www.html-form-guide.com/php-form/php-registration-form.html) [PHP login form](http://www.html-form-guide.com/php-form/php-login-form.html)
